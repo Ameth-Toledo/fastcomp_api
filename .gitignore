@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Binary
+server
+fastcomp_api
+
+# Go
+*.exe
+*.out
+*.test
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
